@@ -46,10 +46,19 @@ This project aims to analyze the impact of currency fluctuations on the S&P 500 
 
 - **Historical Prices**:
     - Line plots of SPY, EUR/USD, and JPY/USD adjusted close prices.
+ 
+    ![Historical Prices](https://github.com/yousefsersy/Project-2/assets/160811887/8973a4ca-6861-46ac-ae51-91fb5ddb24ba)
+
+    ![JPY Historical ](https://github.com/yousefsersy/Project-2/assets/160811887/0b8a89e6-603f-4e66-96a9-ba22f44b1901)
 
 - **Percentage Changes**:
     - Line plots of daily percentage changes for SPY, EUR/USD, and JPY/USD.
     - Additional focus on JPY/USD fluctuations through detailed plots of historical prices and percentage changes.
+ 
+ ![Percent Changes](https://github.com/yousefsersy/Project-2/assets/160811887/bf008d63-331d-4577-b30c-974a306098d6)
+ 
+ ![Model performance](https://github.com/yousefsersy/Project-2/assets/160811887/8ac00267-8d86-4e23-90fe-090469c0b1e9)
+
 
 ### 3. Model Development
 
